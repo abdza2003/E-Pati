@@ -80,3 +80,19 @@ Developed using **Flutter** and **Dart**, the app ensures cross-platform functio
 - **Backend with C# .NET:**  
     🖥️ The backend and control panel were developed using **C# .NET** to provide a stable, scalable system for managing data.
 
+
+
+  
+## 📱 Screenshots
+
+
+
+
+
+
+
+| ![Image](https://github.com/user-attachments/assets/f1c6ff65-af2b-492b-a3b6-b5eb6c4f1e7b) | ![Image](https://github.com/user-attachments/assets/c3d66171-2459-4fa8-a3ae-efc14250f0eb) | ![Image](https://github.com/user-attachments/assets/cc64787e-8013-4ffe-926c-3debda4d09f6) |
+|:------------------------:|:------------------------:|:------------------------:|
+| ![Image](https://github.com/user-attachments/assets/ed991171-0eac-4f5f-ae56-a3d2e8325c0a) | ![Image](https://github.com/user-attachments/assets/cd101e33-7c7c-4cbe-b7af-bd68e398805f)| |
+
+
