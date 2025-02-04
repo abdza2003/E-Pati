@@ -3,8 +3,6 @@
 
 ---
 
-## Short Description
-
 The **E-Pati App** is a comprehensive mobile application designed to enhance animal care services. It offers features like adoption, ambulance services, vaccination tracking, volunteer management, and detailed medical records. The app also provides real-time notifications for emergencies and allows users to manage appointments, track adoption requests, and access daily reports.
 
 Developed using **Flutter** and **Dart**, the app ensures cross-platform functionality for both **Android** and **iOS**. **Provider** is integrated for state management, **OneSignal** for push notifications, and **Hive** for efficient temporary data storage. The backend is developed using **C# .NET** to handle data processing and deliver a seamless user experience.
