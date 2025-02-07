@@ -81,7 +81,8 @@ Developed using **Flutter** and **Dart**, the app ensures cross-platform functio
     🖥️ The backend and control panel were developed using **C# .NET** to provide a stable, scalable system for managing data.
 
 - **Crash & Performance Monitoring via Firebase Crashlytics:**
-    🚨 Helps track and diagnose crashes in real time, ensuring quick issue resolution and a more stable app experience.
+
+  🚨 Helps track and diagnose crashes in real time, ensuring quick issue resolution and a more stable app experience.
 
   
 ## 📱 Screenshots
