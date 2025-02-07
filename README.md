@@ -87,7 +87,7 @@ Developed using **Flutter** and **Dart**, the app ensures cross-platform functio
 
 | ![Image](https://github.com/user-attachments/assets/ed991171-0eac-4f5f-ae56-a3d2e8325c0a) | ![Image](https://github.com/user-attachments/assets/4ada93b6-a70e-4372-b2cb-16a6fa8d20a3) | ![Image](https://github.com/user-attachments/assets/f1c6ff65-af2b-492b-a3b6-b5eb6c4f1e7b) |
 |:------------------------:|:------------------------:|:------------------------:|
-| ![Image](https://github.com/user-attachments/assets/6437298d-e384-46f6-9bbb-d0163594b553) | ![Image](https://github.com/user-attachments/assets/13c10cd9-43f3-45c4-849f-5e8014f008ad) | ![Image](https://github.com/user-attachments/assets/21265586-c63e-4eae-95f4-e1fffb3940cd) |
+| ![Image](https://github.com/user-attachments/assets/6437298d-e384-46f6-9bbb-d0163594b553) | ![Image](https://github.com/user-attachments/assets/13c10cd9-43f3-45c4-849f-5e8014f008ad) | ![Image](https://github.com/user-attachments/assets/21265586-c63e-4eae-95f4-e1fffb3940cd)|
 
 ---
 
