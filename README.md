@@ -95,14 +95,14 @@ Developed using **Flutter** and **Dart**, the app ensures cross-platform functio
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ed991171-0eac-4f5f-ae56-a3d2e8325c0a" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/f1c6ff65-af2b-492b-a3b6-b5eb6c4f1e7b" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/ba0beee0-f088-4839-b5d4-ad4dddb2b5df" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ed991171-0eac-4f5f-ae56-a3d2e8325c0a" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/f1c6ff65-af2b-492b-a3b6-b5eb6c4f1e7b" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ba0beee0-f088-4839-b5d4-ad4dddb2b5df" width="300"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6437298d-e384-46f6-9bbb-d0163594b553" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a6dede05-a22e-465e-8e95-fe159f9f0039" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/21265586-c63e-4eae-95f4-e1fffb3940cd" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/6437298d-e384-46f6-9bbb-d0163594b553" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a6dede05-a22e-465e-8e95-fe159f9f0039" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/21265586-c63e-4eae-95f4-e1fffb3940cd" width="300"></td>
   </tr>
 </table>
 
